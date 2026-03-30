@@ -3,7 +3,7 @@
 1.1 map<type1,type2> mp  
 ## 2.map元素访问  
 2.1 下标访问  
-map<char, int> mp;   
+map<char, int> mp1;   
 mp['c'] = 20;  
 cout << mp['c'];	  
 ## 3.常用函数  
